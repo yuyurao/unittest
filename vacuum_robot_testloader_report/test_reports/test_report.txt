@@ -1,0 +1,8 @@
+test_auto_empty_dock_auto_empty_control (test_vacuum_robot.TestVacuumRobot.test_auto_empty_dock_auto_empty_control) ... ok
+test_auto_empty_dock_manual_trigger (test_vacuum_robot.TestVacuumRobot.test_auto_empty_dock_manual_trigger) ... ok
+test_wifi_configuration (test_vacuum_robot_compatibility.TestVacuumRobotCompatibility.test_wifi_configuration) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
